@@ -1,3 +1,9 @@
+/*
+Covid 19 Data Exploration 
+Skills used: Joins, CTE's, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+*/
+
+
 use [portfolio project]
 select * from CovidVaccinations$;
 select *  from CovidDeaths$;
