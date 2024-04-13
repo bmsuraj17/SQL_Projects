@@ -1,4 +1,4 @@
-# Covid-19 SQL Portfolio project
+# Covid-19 SQL and Instagram SQL Project
 
 I have done a portfolio project of exploring real Covid 19-data using SQL with datasets taken from https://ourworldindata.org/covid-deaths.
 Covid 19 Data Exploration.
